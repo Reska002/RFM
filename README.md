@@ -20,16 +20,16 @@ Customers can easily navigate the user-friendly Contoso website, which makes it 
 - Contoso aims to enhance its marketing strategies and improve customer retention by gaining a deeper understanding of its customer base in UK.
 - To achieve this, the stakeholders at Contoso want to perform an RFM (Recency, Frequency, Monetary) analysis. This analysis will allow Contoso to identify customer segments with an emphasis on recency to induce higher repeat purchase
 
-- **Objective of Analysis**
+**Objective of Analysis**
 
 - Enhance Marketing Strategies: Utilize the insights gained from the RFM analysis to refine and enhance Contoso's marketing strategies, ensuring they are more targeted and effective.
 - Improve Customer Loyalty: Identify key customer segments that could potentially be upgraded to higher tier of loyalty
 - Provide Actionable Insights: Generate actionable insights that can help Contoso make data-driven decisions to optimize overall business performance and customer satisfaction.
 
-  **Tableau Dashboard**
+**Tableau Dashboard**
 
-  https://public.tableau.com/app/profile/kerin.m8323/viz/Tableau_RFM_Group/StoryRFM?publish=yes
+https://public.tableau.com/app/profile/kerin.m8323/viz/Tableau_RFM_Group/StoryRFM?publish=yes
 
-  **Power Point**
+**Power Point**
   
-  https://1drv.ms/p/c/af113123f9d181a2/EfWqDFWIvhBOrHpIsVYn-y4BdMikNAbt6M27VI9hQdkU3Q?e=qCOJyP <- link slide ppt kita
+https://1drv.ms/p/c/af113123f9d181a2/EfWqDFWIvhBOrHpIsVYn-y4BdMikNAbt6M27VI9hQdkU3Q?e=qCOJyP <- link slide ppt kita
