@@ -32,4 +32,4 @@ https://public.tableau.com/app/profile/kerin.m8323/viz/Tableau_RFM_Group/StoryRF
 
 **Power Point**
   
-https://1drv.ms/p/c/af113123f9d181a2/EfWqDFWIvhBOrHpIsVYn-y4BdMikNAbt6M27VI9hQdkU3Q?e=qCOJyP <- link slide ppt kita
+https://1drv.ms/p/c/af113123f9d181a2/EfWqDFWIvhBOrHpIsVYn-y4BdMikNAbt6M27VI9hQdkU3Q?e=qCOJyP 
